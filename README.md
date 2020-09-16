@@ -5,6 +5,7 @@
 2. [NGRX](https://ngrx.io/guide/store).
 
 ## Template Modules
+
 ### Core Module
 Core module, is a module you can use it in any module you want cotains components, state for the current route and breadcrumb.
 
@@ -20,7 +21,7 @@ Core module, is a module you can use it in any module you want cotains component
 
 2. Core Actions
 <p>Has multi Actions:</p>
-  
+ 
   1. Set Current Route
   2. Add Breadcrumb
 
