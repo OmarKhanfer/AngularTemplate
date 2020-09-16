@@ -4,8 +4,8 @@
 ## Template Modules
 
 ### Prerequisite
-1. <a href="https://ng-bootstrap.github.io/#/home" target="_blank">Angular Bootstrap</a>
-2. <a href="https://ngrx.io/guide/store" target="_blank">NGRX</a>
+1. <a href="https://ng-bootstrap.github.io/#/home" target="_blank">Angular Bootstrap</a>.
+2. <a href="https://ngrx.io/guide/store" target="_blank">NGRX</a>.
 
 ### Core Module
 Core module, is a module you can use it in any module you want cotains components, state for the current route and breadcrumb.
